@@ -1,3 +1,9 @@
 [submodule "apilibros"]
 	path = apilibros
 	url = C:\\DesarolloPracticas\\apilibros
+[submodule "apieditoriales"]
+	path = apieditoriales
+	url = C:\\DesarolloPracticas\\apieditoriales
+[submodule "apiautores"]
+	path = apiautores
+	url = C:\\DesarolloPracticas\\apiautores
