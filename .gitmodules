@@ -1,6 +1,6 @@
 [submodule "apilibros"]
 	path = apilibros
-	url = C:\\DesarolloPracticas\\apilibros
+	url = https://github.com/jorgeca02/ApiLibros
 [submodule "apieditoriales"]
 	path = apieditoriales
 	url = C:\\DesarolloPracticas\\apieditoriales
